@@ -8,7 +8,7 @@ const Skills = () => {
 <div data-aos="fade-up">
   <h2 className='text-4xl md:text-5xl'>Technologies I work with</h2>
   <p className='text-gray-500 pt-2'>
-    I have solid foundation in web development, specializing  in HTML, CSS, and Javascript. My experience extends to using frameworks like react and Next.js to create dynamic and user-friendly applications. I'm also proficient in technologies  to enhance my skill set and contribute effectively to project. 
+    I have solid foundation in web development, specializing  in HTML, CSS, and Javascript. My experience extends to using frameworks like react and Next.js to create dynamic and user-friendly applications. I am also proficient in technologies  to enhance my skill set and contribute effectively to project. 
   </p>
 </div>
   <div>
